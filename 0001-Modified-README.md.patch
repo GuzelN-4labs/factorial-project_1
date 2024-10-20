@@ -1,0 +1,26 @@
+From 65f9f4c043b6df5747c7171a396fc144f841bb85 Mon Sep 17 00:00:00 2001
+From: GuzelN <guzel07102020@gmail.com>
+Date: Sun, 20 Oct 2024 16:39:29 +0300
+Subject: [PATCH] Modified README.md
+
+---
+ README.md | 5 ++++-
+ 1 file changed, 4 insertions(+), 1 deletion(-)
+
+diff --git a/README.md b/README.md
+index 3aafa58..f782f9f 100644
+--- a/README.md
++++ b/README.md
+@@ -8,4 +8,7 @@
+ <br>Работа с патчами:
+ <br>Создайте два репозитория с похожим кодом.
+ <br>В одном репозитории внесите изменения и создайте патч с помощью `git format-patch`. 
+-<br>Затем примените этот патч ко второму репозиторию, используя `git apply`.
+\ No newline at end of file
++<br>Затем примените этот патч ко второму репозиторию, используя `git apply`.
++
++**Описание:**
++<br>В качестве изменения – добавление этого описания в README.md
+-- 
+2.34.1
+
